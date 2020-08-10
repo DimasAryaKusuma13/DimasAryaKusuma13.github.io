@@ -1,0 +1,50 @@
+.jumbotron{
+	z-index: 1;
+	width: 100%;
+	position: absolute;
+	height: 400px;
+	background: transparent;
+	color: white;
+}
+.carousel-item img{
+	height: 400px;
+
+}
+
+.carousel-inner {
+	height: 400px;
+	position: relative;
+	z-index: 0;
+}
+.card{
+	margin: 40px;
+	float: left;
+	box-shadow: 50px;
+}
+.image{
+	float: left;
+}
+.tulisan{
+	width: 55vw;
+	float: left;
+	justify-content: center;
+	padding: 110px;
+	margin-top: -50px;
+}
+
+.tulisan2{
+	width: 50vw;
+	float: left;
+}
+
+.image2{
+	float: left;
+}
+
+body{
+	background-color:lightblue;
+}
+
+.foot {
+	width: 100%;
+}
